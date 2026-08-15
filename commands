@@ -1,1 +1,1 @@
-cmd /c "echo Okay.>> %SystemDrive%\\test.log"
+
